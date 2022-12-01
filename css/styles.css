@@ -14,6 +14,7 @@ body {
 
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-image: url("https://wallpaperaccess.com/full/367251.jpg");
+    background-attachment: fixed;
 }
 
 
@@ -27,6 +28,7 @@ div {
 #title {
     color: red;
     font-family: 'Courier New', Courier, monospace;
+    font-size:2.5em;
 }
 
 .indexImg {
