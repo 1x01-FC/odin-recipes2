@@ -3,5 +3,33 @@ img {
 }
 
 ol li {
-    margin:10px 0;
+    margin: 10px 0;
+}
+
+header {
+    padding: 0 2em;
+}
+
+body {
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("https://wallpaperaccess.com/full/367251.jpg");
+}
+
+
+
+div {
+    background-image: linear-gradient(45deg, white, lavender);
+    padding: 1em 2em;
+    margin: 2em;
+}
+
+#title {
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.indexImg {
+    float: left;
+    margin-right: 50px;
 }
